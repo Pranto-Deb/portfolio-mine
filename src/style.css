@@ -201,7 +201,7 @@ main {
 }
 @media (max-width: 720px) {
   .hero {
-    padding-top: 26px;
+    padding-top: 34px;
   }
   .hero-card {
     order: -1;
