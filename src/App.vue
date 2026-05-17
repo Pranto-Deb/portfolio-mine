@@ -199,7 +199,6 @@ const projects = [
   { name: 'DoctorVenue', type: 'Doctor Booking', image: '/images/doctor-venue.png', link: 'https://doctorvenue.com/', action: 'Visit Project', cta: 'Live', desc: 'Doctor and hospital booking platform with search, doctor profiles, appointment-focused UI, responsive layouts, and patient-friendly navigation.', tags: ['Laravel', 'UI', 'Responsive'] },
   { name: 'PNRFR', type: 'Non-profit Website', image: '/images/pnrfr.png', link: 'https://pnrfr.com/', action: 'Visit Project', cta: 'Live', desc: 'Professional non-profit website with bilingual page structure, foundation story, donation CTAs, leadership content, and trust-building design.', tags: ['WordPress', 'UI', 'Content'] },
   { name: 'The Sports Arena', type: 'Sports Booking', image: '/images/sports-arena.png', link: 'https://thesportsarena.xyz/', action: 'Visit Project', cta: 'Live', desc: 'Sports facility booking and management website built for playground discovery, event information, user conversion, and modern sports branding.', tags: ['Laravel', 'System', 'Booking'] },
-  { name: 'XyloPay', type: 'Fintech Website', image: '/images/xylopay.png', link: 'https://xylopay.io/', action: 'Visit Project', cta: 'Live', desc: 'Premium fintech website for an online payment company with modern landing page design, strong CTA flow, and performance-focused UI.', tags: ['Laravel', 'Fintech', 'Landing Page'] }
 ]
 
 const jobs = [
