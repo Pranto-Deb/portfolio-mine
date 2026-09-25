@@ -24,7 +24,7 @@
         <div class="hero-copy">
           <p class="eyebrow">Laravel • Vue.js • Full Stack Developer</p>
           <h1>Building scalable web & mobile applications for businesses that need speed, trust, and growth.</h1>
-          <p class="lead">I’m Pranto Deb, a Full Stack Laravel & Vue.js Developer with 2.5+ years of professional experience. I help startups, agencies, and businesses build fast, secure, responsive, and production-ready web applications, dashboards, APIs, and mobile app publishing solutions.</p>
+          <p class="lead">I’m Pranto Deb, a Full Stack Laravel & Vue.js Developer with 4+ years of professional experience. I help startups, agencies, and businesses build fast, secure, responsive, and production-ready web applications, dashboards, APIs, and mobile app publishing solutions.</p>
           <div class="hero-actions">
             <a class="btn primary" :href="profile.whatsapp" target="_blank">Hire Me</a>
             <a class="btn secondary" href="#projects">View Projects</a>
@@ -48,7 +48,7 @@
             </div>
           </div>
           <div class="metric-grid">
-            <div><strong>2.5+</strong><span>Years Experience</span></div>
+            <div><strong>4+</strong><span>Years Experience</span></div>
             <div><strong>24+</strong><span>Projects Delivered</span></div>
             <div><strong>Full Stack Dev</strong><span>Web & Mobile Apps</span></div>
           </div>
@@ -96,7 +96,7 @@
         <div class="container two-col">
           <div class="section-head left sticky-copy">
             <p class="eyebrow">Experience</p>
-            <h2>2.5+ years of professional full stack development experience.</h2>
+            <h2>4+ years of professional full stack development experience.</h2>
             <p>I have worked on healthcare platforms, fintech websites, booking systems, admin dashboards, responsive frontend interfaces, Laravel backend systems, debugging, app publishing workflows, and long-term production maintenance.</p>
           </div>
           <div class="timeline">
@@ -202,8 +202,8 @@ const projects = [
 ]
 
 const jobs = [
-  { title: 'Software Engineer', company: 'Medisquare Health · Full-time', period: 'Mar 2025 - Aug 2026', location: 'Dhaka, Bangladesh · Hybrid', points: ['Designing and developing modern websites with modern technologies and frameworks.', 'Developing and maintaining healthcare platforms, doctor/patient workflows, and responsive dashboards.', 'Supporting Android app publishing and Google Play release workflow for healthcare app products.', 'Modifying and making changes according to business requirements.', 'Checking for errors, debugging websites, and improving production stability.', 'Making websites responsive across desktop, tablet, and mobile devices.', 'Communicating with users and stakeholders about project requirements.'] },
-  { title: 'Web Developer', company: 'Bangla Puzzle Limited · Full-time', period: 'Mar 2024 - Feb 2025', location: 'Dhaka, Bangladesh · On-site', points: ['Designed and developed modern websites with modern technologies and frameworks.', 'Converted PSD/XD/Figma designs into HTML, Bootstrap, and Tailwind CSS.', 'Modified and improved projects according to requirements.', 'Debugged websites and fixed frontend/backend issues.', 'Built responsive interfaces and communicated with users about project needs.'] },
+  { title: 'Software Engineer', company: 'Medisquare Health · Full-time', period: 'Nov 2022 - Aug 2026', location: 'Dhaka, Bangladesh · Hybrid', points: ['Designing and developing modern websites with modern technologies and frameworks.', 'Developing and maintaining healthcare platforms, doctor/patient workflows, and responsive dashboards.', 'Supporting Android app publishing and Google Play release workflow for healthcare app products.', 'Modifying and making changes according to business requirements.', 'Checking for errors, debugging websites, and improving production stability.', 'Making websites responsive across desktop, tablet, and mobile devices.', 'Communicating with users and stakeholders about project requirements.'] },
+  { title: 'Web Developer', company: 'Bangla Puzzle Limited · Full-time', period: 'Nov 2021 - Oct 2022', location: 'Dhaka, Bangladesh · On-site', points: ['Designed and developed modern websites with modern technologies and frameworks.', 'Converted PSD/XD/Figma designs into HTML, Bootstrap, and Tailwind CSS.', 'Modified and improved projects according to requirements.', 'Debugged websites and fixed frontend/backend issues.', 'Built responsive interfaces and communicated with users about project needs.'] },
 ]
 
 const skills = [
