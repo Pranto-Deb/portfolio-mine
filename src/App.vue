@@ -2,7 +2,7 @@
   <div class="site-shell">
     <header class="nav-wrap fixed">
       <nav class="nav container">
-        <a class="brand" href="#home"><span>Pranto</span><b>Deb</b></a>
+        <a class="brand" href="#home"><span>Pranto</span><b> Deb</b></a>
         <button class="menu-btn" @click="mobileOpen = !mobileOpen" :aria-label="mobileOpen ? 'Close menu' : 'Open menu'">
           <span></span>
           <span></span>
